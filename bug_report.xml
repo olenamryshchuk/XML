@@ -1,1 +1,18 @@
+<xml>
+  
+  <ENV>https://admindms.fornova.com/</ENV>
+
+  <STR>
+    <1>Log in to SN ( Users / customer - Hilton Corporate/ Level - Admin / Permission - Chain / Report Type - Main)</1>
+    <2>Go to Dashboard</2>
+    <3>Select "DIRECT"</3>
+    <4>Select "Priceline" in "Channel" filter</4>
+    <5>See snapshot below https://prnt.sc/voHYe0xsZvJ6</5>
+    <Actual result>The rate for members was extracted.</Actual result>
+    <Expected result>The price was extracted correctly for public rate.</Expected result>
+
+
+
+
+
 
